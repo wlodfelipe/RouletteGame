@@ -1,0 +1,14 @@
+/home/srwlod/personal/roleta/roleta/bin/Debug/net8.0/roleta
+/home/srwlod/personal/roleta/roleta/bin/Debug/net8.0/roleta.deps.json
+/home/srwlod/personal/roleta/roleta/bin/Debug/net8.0/roleta.runtimeconfig.json
+/home/srwlod/personal/roleta/roleta/bin/Debug/net8.0/roleta.dll
+/home/srwlod/personal/roleta/roleta/bin/Debug/net8.0/roleta.pdb
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.GeneratedMSBuildEditorConfig.editorconfig
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.AssemblyInfoInputs.cache
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.AssemblyInfo.cs
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.csproj.CoreCompileInputs.cache
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.dll
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/refint/roleta.dll
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.pdb
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/roleta.genruntimeconfig.cache
+/home/srwlod/personal/roleta/roleta/obj/Debug/net8.0/ref/roleta.dll
